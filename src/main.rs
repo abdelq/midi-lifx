@@ -1,3 +1,7 @@
+mod lifx;
+
 fn main() {
-    println!("Hello, world!");
+    let _bulb_manager = lifx::BulbManager::new();
+
+    loop {}
 }
