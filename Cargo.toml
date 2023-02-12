@@ -7,3 +7,4 @@ edition = "2021"
 
 [dependencies]
 lifx-core = "0.4.0"
+midir = "0.9.1"
